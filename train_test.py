@@ -7,7 +7,7 @@ from initial_variable import *
 from model_list import *
 from part import *
 from program_list import recognition
-from test_founction import recognition_test
+from test_function import recognition_test
 import random
 
 
